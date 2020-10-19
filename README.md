@@ -10,6 +10,6 @@ This repository contains spoof detection code where Bagging classifer (Random Fo
 6. Pandas 0.23.4
 7. Scikit-learn 0.21.2
 ## project Pipeline
-<img src="">
+<img src="images/pipeline.png">
 
 
