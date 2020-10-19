@@ -9,4 +9,7 @@ This repository contains spoof detection code where Bagging classifer (Random Fo
 5. Numpy 1.16.4
 6. Pandas 0.23.4
 7. Scikit-learn 0.21.2
+## project Pipeline
+<img src="">
+
 
