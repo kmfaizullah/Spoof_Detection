@@ -11,8 +11,11 @@ This repository contains spoof detection code where Bagging classifer (Random Fo
 7. Scikit-learn 0.21.2
 ## Project Pipeline
 <img src="images/pipeline.png">
+
 ## Dataset : <a href= "https://drive.google.com/drive/folders/1bMkW3RIJNpWnxuNm5gAw7BKmLFxyPLCN?usp=sharing">Spoof image data</a>
+
 ## Dataset Preparation
+
 <img src="images/Dataset.png">
 
 
