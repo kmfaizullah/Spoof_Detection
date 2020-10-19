@@ -14,6 +14,6 @@ This repository contains spoof detection code where Bagging classifer (Random Fo
 
 ## Dataset Collection and Preparation
 Dataset : <a href= "https://drive.google.com/drive/folders/1bMkW3RIJNpWnxuNm5gAw7BKmLFxyPLCN?usp=sharing">Spoof image data</a>
-<img src="images/spoof.png">
+<img src="images/Dataset.png">
 
 
