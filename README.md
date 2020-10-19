@@ -18,4 +18,6 @@ This repository contains spoof detection code where Bagging classifer (Random Fo
 
 <img src="images/Dataset.png">
 
+## Result Analysis
 
+<img src="images/spoof_confusion matrix.png">
